@@ -1,0 +1,3 @@
+Bert;True;white;black;4;Persian;True;False;1;True;catnip
+Luna;False;brown;yellow;6;Tabby;True;True;6;False;yarn
+Megan;False;grey;green;1;Russian Blue;True;True;5;False;yarn

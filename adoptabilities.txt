@@ -1,0 +1,24 @@
+start of the day: 
+
+John: 26
+Rue: 0
+Max: 0
+Bert: 7
+Luna: 20
+Megan: 24
+Elsa: 0
+Anna: 22
+Olaf: 27
+
+
+end of the day: 
+
+John: 0
+Rue: 0
+Max: 0
+Bert: 20
+Luna: 20
+Megan: 29
+Elsa: 0
+Anna: 22
+Olaf: 27

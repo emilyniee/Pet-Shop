@@ -1,0 +1,117 @@
+DOGS[
+
+ Name: John
+ Gender: male
+ Fur Color: brown
+ Eye Color: black
+ Age: 5
+ Breed: German Shepherd
+ For Adoption?: no
+ Neutered?: yes
+ Child Friendliness Rating: 10
+ Trained to Serve?: yes
+ Tricks: ['jump', 'strut'], 
+
+ Name: Rue
+ Gender: female
+ Fur Color: yellow
+ Eye Color: brown
+ Age: 7
+ Breed: Labrador
+ For Adoption?: no
+ Neutered?: yes
+ Child Friendliness Rating: 1
+ Trained to Serve?: yes
+ Tricks: ['sit', 'give a paw'], 
+
+ Name: Max
+ Gender: male
+ Fur Color: brown
+ Eye Color: black
+ Age: 8
+ Breed: German Shepherd
+ For Adoption?: no
+ Neutered?: yes
+ Child Friendliness Rating: 2
+ Trained to Serve?: no
+ Tricks: ['sit', 'jump']]
+
+CATS[
+
+ Name: Bert
+ Gender: male
+ Fur Color: white
+ Eye Color: black
+ Age: 4
+ Breed: Persian
+ For Adoption?: yes
+ Neutered?: yes
+ Child Friendliness Rating: 4
+ Scratches?: yes
+ Favourite toy: catnip
+, 
+
+ Name: Luna
+ Gender: female
+ Fur Color: brown
+ Eye Color: yellow
+ Age: 6
+ Breed: Tabby
+ For Adoption?: yes
+ Neutered?: yes
+ Child Friendliness Rating: 6
+ Scratches?: yes
+ Favourite toy: yarn
+, 
+
+ Name: Megan
+ Gender: female
+ Fur Color: grey
+ Eye Color: green
+ Age: 1
+ Breed: Russian Blue
+ For Adoption?: yes
+ Neutered?: yes
+ Child Friendliness Rating: 10
+ Scratches?: no
+ Favourite toy: yarn
+]
+
+BUNNIES[
+
+ Name: Elsa
+ Gender: female
+ Fur Color: white
+ Eye Color: red
+ Age: 9
+ Breed: Polish
+ For Adoption?: no
+ Neutered?: yes
+ Child Friendliness Rating: 10
+ Hop Strength: 8
+ Favourite vegetable: celery, 
+
+ Name: Anna
+ Gender: female
+ Fur Color: yellow
+ Eye Color: brown
+ Age: 6
+ Breed: Mini Rex
+ For Adoption?: yes
+ Neutered?: yes
+ Child Friendliness Rating: 8
+ Hop Strength: 10
+ Favourite vegetable: celery, 
+
+ Name: Olaf
+ Gender: male
+ Fur Color: white
+ Eye Color: black
+ Age: 2
+ Breed: Rex
+ For Adoption?: yes
+ Neutered?: yes
+ Child Friendliness Rating: 9
+ Hop Strength: 1
+ Favourite vegetable: carrot
+]

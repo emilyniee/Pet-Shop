@@ -1,0 +1,3 @@
+John;True;brown;black;4;German Shepherd;True;True;10;True;jump
+Rue;False;yellow;brown;6;Labrador;False;True;1;False;sit
+Max;True;brown;black;8;German Shepherd;False;True;2;False;sit,jump

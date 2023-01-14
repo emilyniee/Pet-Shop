@@ -1,0 +1,3 @@
+Elsa;False;white;red;9;Polish;False;True;10;8;corn
+Anna;False;yellow;brown;6;Mini Rex;True;True;8;3;brocolli
+Olaf;True;white;black;2;Rex;True;True;9;1;carrot
